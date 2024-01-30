@@ -128,10 +128,9 @@
 
 ## For this existing project
 
-1.  Clone the repository
-    ```bash
+1.  Clone the repository from this site 
     [Django Github Repository](https://github.com/UtkJaiswal/Django-CRUD-Form)
-    ```
+    
 
 2.  Install the dependencies
     ```bash
