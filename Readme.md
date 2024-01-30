@@ -121,7 +121,7 @@
 
 ### Run the project
 
-    Run the project
+1.  Run the project
     ```bash
     python manage.py runserver
     ```
