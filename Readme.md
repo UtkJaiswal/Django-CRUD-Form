@@ -120,6 +120,7 @@
     ```
 
 ### Run the project
+
     Run the project
     ```bash
     python manage.py runserver
